@@ -1,0 +1,1 @@
+/usr/bin/clang++ -fPIC  -fsanitize=leak -O1 -O3 -DNDEBUG -shared -Wl,-soname,libConvertImage.so -o libConvertImage.so CMakeFiles/ConvertImage.dir/ConvertImage.cpp.o CMakeFiles/ConvertImage.dir/IConvertImage.cpp.o 

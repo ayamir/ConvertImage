@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/ayamir/CLionProjects/ConvertImage/ConvertImage.cpp
+ConvertImage.h
+/home/ayamir/CLionProjects/ConvertImage/ConvertImage.h
+iostream
+-
+
+/home/ayamir/CLionProjects/ConvertImage/ConvertImage.h
+string
+-
+IConvertImage.h
+/home/ayamir/CLionProjects/ConvertImage/IConvertImage.h
+IPO.h
+/home/ayamir/CLionProjects/ConvertImage/IPO.h
+
+/home/ayamir/CLionProjects/ConvertImage/IConvertImage.cpp
+IConvertImage.h
+/home/ayamir/CLionProjects/ConvertImage/IConvertImage.h
+
+/home/ayamir/CLionProjects/ConvertImage/IConvertImage.h
+iostream
+-
+IEO.h
+/home/ayamir/CLionProjects/ConvertImage/IEO.h
+
+/home/ayamir/CLionProjects/ConvertImage/IEO.h
+string
+-
+
+/home/ayamir/CLionProjects/ConvertImage/IPO.h
+IEO.h
+/home/ayamir/CLionProjects/ConvertImage/IEO.h
+

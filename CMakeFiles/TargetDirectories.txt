@@ -1,0 +1,4 @@
+/home/ayamir/CLionProjects/ConvertImage/CMakeFiles/rebuild_cache.dir
+/home/ayamir/CLionProjects/ConvertImage/CMakeFiles/edit_cache.dir
+/home/ayamir/CLionProjects/ConvertImage/CMakeFiles/Test.dir
+/home/ayamir/CLionProjects/ConvertImage/CMakeFiles/ConvertImage.dir
